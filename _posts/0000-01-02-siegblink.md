@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Stand up for what is right even if you're standing alone.
 Use the left arrow to go back!
